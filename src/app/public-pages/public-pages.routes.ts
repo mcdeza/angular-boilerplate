@@ -1,5 +1,5 @@
 import { RouterModule, Routes } from '@angular/router';
-import { PublicLayoutComponent } from './public-layout/public-layout.component';
+import { PublicLayoutComponent } from './layout/public-layout/public-layout.component';
 import { HomeComponent } from './pages/home/home.component';
 import { PagenotfoundComponent } from '../pages/pagenotfound/pagenotfound.component';
 

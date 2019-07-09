@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 
 
 import { HomeComponent } from './pages/home/home.component';
-import { PublicLayoutComponent } from './public-layout/public-layout.component';
+import { PublicLayoutComponent } from './layout/public-layout/public-layout.component';
 import { SharedModule } from '../shared/shared.module';
 import { PUBLIC_PAGES_ROUTES } from './public-pages.routes';
 
